@@ -1,0 +1,43 @@
+{
+  "name": "payment-gateway-integration",
+  "displayName": "Payment Gateway Integration",
+  "description": "Multi-provider payment gateway with Stripe, PayPal, and crypto support",
+  "version": "1.0.0",
+  "author": "Augustus Rivers - Offlabel Design",
+  "license": "MIT",
+  "repository": "https://github.com/offlabel-scaffolds/payment-gateway-integration",
+  "tech": [
+    "FastAPI",
+    "Stripe",
+    "PostgreSQL",
+    "Redis",
+    "Python"
+  ],
+  "categories": [
+    "backend",
+    "fintech"
+  ],
+  "usecases": [
+    "fintech",
+    "ecommerce",
+    "saas"
+  ],
+  "priority": "high",
+  "maturity": "stable",
+  "complexity": "intermediate",
+  "features": [
+    "Multi-currency",
+    "Webhooks",
+    "Refunds",
+    "Subscriptions",
+    "Fraud Detection"
+  ],
+  "hasDemo": true,
+  "hasCLI": false,
+  "securityFeatures": [
+    "PCI-DSS",
+    "Encryption",
+    "Compliance"
+  ],
+  "lastUpdated": "2025-10-03"
+}
