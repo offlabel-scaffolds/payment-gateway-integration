@@ -2,15 +2,15 @@
 
 Multi-provider payment gateway with Stripe, PayPal, and crypto support
 
-## 🎯 Features
+## The Good Stuff
 
-- ✅ Multi-currency
-- ✅ Webhooks
-- ✅ Refunds
-- ✅ Subscriptions
-- ✅ Fraud Detection
+- Multi-currency
+- Webhooks
+- Refunds
+- Subscriptions
+- Fraud Detection
 
-## 🛠️ Tech Stack
+## Technologies
 
 - FastAPI
 - Stripe
@@ -18,7 +18,7 @@ Multi-provider payment gateway with Stripe, PayPal, and crypto support
 - Redis
 - Python
 
-## 🚀 Quick Start
+## Setup
 
 ```bash
 # Clone the repository
@@ -34,20 +34,20 @@ cp .env.example .env
 python main.py
 ```
 
-## 📚 Documentation
+## Documentation
 
 - [Getting Started](./docs/getting-started.md)
 - [API Reference](./docs/api-reference.md)
 - [Deployment Guide](./docs/deployment.md)
 - [Security Best Practices](./docs/security.md)
 
-## 🏢 Use Cases
+## Use Cases
 
 - **Fintech**
 - **Ecommerce**
 - **Saas**
 
-## 🔒 Compliance & Security
+## Compliance & Security
 
 This scaffold includes built-in compliance features for:
 
@@ -58,14 +58,14 @@ This scaffold includes built-in compliance features for:
 - Rate limiting and DDoS protection
 - Security headers and CORS
 
-## 📄 License
+## License
 
 MIT License - see [LICENSE](./LICENSE)
 
-## 🤝 Contributing
+## Contributing
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ---
 
-Built with care and coffee ☕ by [Offlabel Design](https://offlabel.design)
+Built with care and coffee by [Offlabel Design](https://offlabel.design)
